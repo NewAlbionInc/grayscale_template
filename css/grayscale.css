@@ -158,8 +158,9 @@
   color: white;
 }
 
+/* landing page twin buttons under Mana*/
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #4f837f !important;
 }
 
 .about-section {
